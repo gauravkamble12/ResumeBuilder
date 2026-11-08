@@ -1,0 +1,19 @@
+@use "./style/button.scss";
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+html,
+body,
+#root{
+    width:100%;
+    color:black;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+.highlight{
+    color:#e0ecff;
+    
+}
